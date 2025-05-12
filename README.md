@@ -11,9 +11,8 @@
 <br>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x300/9370DB/FFFFFF?text=Audio+Emotion+Recognition+System" alt="Audio Emotion Recognition Pipeline" width="800">
+  <img src="https://i.imgur.com/Jm6h8YO.png" alt="Audio Emotion Recognition Pipeline" width="800">
 </div>
-
 ## 🌟 Key Features
 - 🔊 **Audio Augmentation**: Noise injection, pitch shifting, time stretching
 - 📊 **Visual Representation**: Mel-spectrograms & MFCC feature extraction
