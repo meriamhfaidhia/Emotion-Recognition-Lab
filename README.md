@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/Jm6h8YO.png" alt="Audio Emotion Recognition Pipeline" width="800">
+  <img src="https://placehold.co/800x300/9370DB/FFFFFF/png?text=Audio+Emotion+Recognition+System" alt="Audio Emotion Recognition Pipeline" width="800">
 </div>
 ## 🌟 Key Features
 - 🔊 **Audio Augmentation**: Noise injection, pitch shifting, time stretching
